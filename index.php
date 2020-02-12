@@ -55,9 +55,10 @@
                         <h5 class="card-title"><?=$item['title']?></h5>
                         <p class="card-text"><?=$item['short']?></p>
                         <div class="text-right">
+                            <p> Ko'rildi: <?php echo $item['view']; ?></p>
                             <?=date_format(date_create($item['created_at']), '<b>H:i</b> d/m/Y')?>
                         </div>
-                        <a href="#" class="btn btn-primary">Batafsil</a>
+                        <a href="batafsil.php?id=<?=$item['id']?>" class="btn btn-primary">Batafsil</a>
                     </div>
                 </div>
             </div>
