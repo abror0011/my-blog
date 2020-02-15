@@ -1,3 +1,6 @@
 <?php include 'layouts/header.php' ?>
 <h1>Content here</h1>
+<p>
+    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non, iusto! Voluptate voluptas numquam error nemo ducimus laborum corporis obcaecati eos fugit repellendus consectetur, sed vero quo rem enim perferendis porro dignissimos voluptates ut voluptatem! Amet, ratione dolore? Nesciunt, voluptas impedit est sit dolores inventore et quidem aliquam exercitationem at, aliquid odit incidunt cumque quaerat. Vitae et nostrum, odit consequuntur quidem dolor corrupti laboriosam harum quos reiciendis porro asperiores? Illum maiores autem non alias possimus saepe hic ullam dolore itaque. Eaque consequuntur mollitia commodi voluptas deserunt accusamus ea similique, ipsa alias iste fugit repellat optio provident blanditiis repudiandae iusto illo distinctio sit dolorum asperiores, veritatis explicabo vitae placeat aut. Praesentium ducimus ad cupiditate debitis nisi similique rem voluptatem amet? Vitae dicta repudiandae ipsum, pariatur nihil repellat?
+</p>
 <?php include 'layouts/footer.php' ?>

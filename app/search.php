@@ -1,10 +1,7 @@
 <?php
-
     include 'db.php';
 
-    
-
-    if (isset($_GET['key'])) {
+    if (!empty($_GET['key'])) {
         $key = $_GET['key'];
         $key = '%'.trim($key).'%';
         // $query = $connection->query('SELECT * FROM `news` WHERE `title` LIKE "%'.$key.'%"');
